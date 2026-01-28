@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /home/hawsin/CLionProjects/lab2 Select CMakeLists.txt
