@@ -3,4 +3,4 @@ project(MagicNumber)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(MagicNumber main.cpp)
+add_executable(MagicNumber MagicNumber.cpp)
